@@ -1,8 +1,6 @@
 '''
 sharvah 11/6/2020
 
-this code will do ...
-exmpale ...
 
 '''
 
